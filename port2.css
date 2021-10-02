@@ -1,0 +1,53 @@
+body{
+    background-image:url(back.png);
+    background-attachment: fixed;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+.h-h1{
+    font-size: 60px;
+    text-align: center;
+  }
+.m-h2{
+  background: #212529;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin: 25px;
+  padding: 10px;
+  opacity: .8;
+}
+.m-p{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 40px;
+  }
+.art{
+  border: 15px solid rgb(41,100,86);
+  border-radius: 5px;
+  width: 500px;
+  height: 500px;
+  display: block;
+  margin: auto;
+}
+.art1{
+    border: 15px solid rgb(41,100,86);
+    border-radius: 5px;
+    width: 650px;
+    height: 500px;
+    display: block;
+    margin: auto;
+  }
+
+
+
+/*フッター*/
+.f-name{
+    background-color: #212529;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+
+  }
